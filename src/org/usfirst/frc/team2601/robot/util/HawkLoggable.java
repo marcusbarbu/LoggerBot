@@ -9,7 +9,7 @@ import java.util.ArrayList;
  * @author Marcus
  *
  */
-interface HawkLoggable {
+public interface HawkLoggable {
 	
 	public void setName(String name);
 	public String getName();
